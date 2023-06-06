@@ -72,9 +72,11 @@ orig为解压后的文件
 ![Screenshot from 2023-06-06 14-37-55](https://github.com/WentingXu3o3/Hydra_reproduction/assets/59476953/107972f5-7719-4fe0-89b2-0a187658e90b)
 
 ### To start Hydra:
+```
 source ~/catkin_ws/devel/setup.bash
 
 roslaunch hydra_dsg_builder uhumans2_incremental_dsg.launch start_visualizer:=true
+```
 ### Then, start the rosbag in a separate terminal:另开一个terminal
 ![IMG_2033](https://github.com/WentingXu3o3/Hydra_reproduction/assets/59476953/16e27a81-86ff-4112-97f2-6816001d00ed)
 

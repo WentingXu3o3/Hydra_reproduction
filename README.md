@@ -9,7 +9,7 @@ http://wiki.ros.org/noetic/Installation/Ubuntu
 
 1.Installation
 ![image](https://github.com/WentingXu3o3/Hydra_reproduction/assets/59476953/e64bed25-2b02-455a-aad8-96cffe0dd1e7)
-点进链接 配置ubuntu Repositories 给予权限 注意：这个software配置在程序库中 不在setting中![image](https://github.com/WentingXu3o3/Hydra_reproduction/assets/59476953/d98279d1-802d-450b-aaa1-1d53ad674252)
+点进链接 配置ubuntu Repositories 给予权限 注意：这个software配置在程序库中 不在setting中![Screenshot from 2023-06-06 14-08-38](https://github.com/WentingXu3o3/Hydra_reproduction/assets/59476953/c194ec4a-2d86-4849-8467-bd2c91fe3cd2)
 
 1.4安装，选择recommend
 

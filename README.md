@@ -65,10 +65,11 @@ uHumans 的数据只有如下
 
 ### rosbag decompress path/to/bagfile 解压
 53min
-![IMG_2037](https://github.com/WentingXu3o3/Hydra_reproduction/assets/59476953/8cc6e993-0dbd-4af8-a1fd-10711eab5bd6)
-orig为解压后的文件
 
-![IMG_2036](https://github.com/WentingXu3o3/Hydra_reproduction/assets/59476953/ac95eb8d-af64-4a26-b2aa-786c813d8cb6)
+![IMG_2037](https://github.com/WentingXu3o3/Hydra_reproduction/assets/59476953/8cc6e993-0dbd-4af8-a1fd-10711eab5bd6)
+
+orig为解压后的文件
+![Screenshot from 2023-06-06 14-37-55](https://github.com/WentingXu3o3/Hydra_reproduction/assets/59476953/107972f5-7719-4fe0-89b2-0a187658e90b)
 
 ### To start Hydra:
 source ~/catkin_ws/devel/setup.bash
